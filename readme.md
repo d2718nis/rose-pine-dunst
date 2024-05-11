@@ -40,7 +40,17 @@ ln -s ~/.local/share/themes/rose-pine/dunst/rose-pine.conf ~/.config/dunst/dunst
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+**Rosé Pine**
+
+![Rosé Pine](https://raw.githubusercontent.com/d2718nis/assets/main/repositories/rose-pine-dunst/rose-pine.png)
+
+**Rosé Pine Moon**
+
+![Rosé Pine Moon](https://raw.githubusercontent.com/d2718nis/assets/main/repositories/rose-pine-dunst/rose-pine-moon.png)
+
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn](https://raw.githubusercontent.com/d2718nis/assets/main/repositories/rose-pine-dunst/rose-pine-dawn.png)
 
 ## Thanks to
 
