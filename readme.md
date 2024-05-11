@@ -37,6 +37,10 @@ or by creating a symlink:
 ln -s ~/.local/share/themes/rose-pine/dunst/rose-pine.conf ~/.config/dunst/dunstrc.d/50-theme.conf
 ```
 
+## Requirements
+
+- [Rosé Pine GTK icons](https://github.com/rose-pine/gtk) — although not essential, these icons are used in the theme config files
+
 
 ## Gallery
 
