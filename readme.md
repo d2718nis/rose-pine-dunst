@@ -28,7 +28,7 @@ mkdir -p ~/.config/dunst/dunstrc.d/
 3. Add theme file to your `$XDG_CONFIG_HOME/dunst/dunstrc.d/` either by copying it:
 
 ```bash
-cp ~/.local/share/themes/rose-pine/dunst/rose-pine.conf ~/.config/dunst/dunctrc.d/50-theme.conf
+cp ~/.local/share/themes/rose-pine/dunst/rose-pine.conf ~/.config/dunst/dunstrc.d/50-theme.conf
 ```
 
 or by creating a symlink:
